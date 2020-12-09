@@ -1,2 +1,2 @@
 # Examples
-Example repository.
+Example repository used for testing.
